@@ -19,6 +19,7 @@ h2 {
     font-size: 32px;
     margin-left: 1000px;
     margin-top: 0px;
+    margin-bottom: 40px;
     color: #ffffff;
     line-height: 37,5px;
     
@@ -34,6 +35,7 @@ input {
     font-weight: 500px;
     font-size: 40px;
     border-radius: 14px;
+    border: solid 3px #fc2c2c;
     background: #9df42b;
     color: #000000;
     cursor: pointer;
